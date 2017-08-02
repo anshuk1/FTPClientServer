@@ -1,7 +1,4 @@
 /* 
-Kunal Anshu
-HW # 2, Computer Networks
-04/23/06
 
 The program acts as an FTP server. It waits to listen for incoming connections.
 When a conenction is requested, it creates a socket, binds it to the specified port 
