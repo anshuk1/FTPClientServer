@@ -1,8 +1,4 @@
 /*
-Kunal Anshu
-HW # 2, Computer Networks
-04/23/06
-
 FTP Client
 
 This code implements an FTP client program. It is a very simple program that sends 
